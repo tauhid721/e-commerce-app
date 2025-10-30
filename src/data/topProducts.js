@@ -1,0 +1,111 @@
+// src/data/topProducts.js
+
+export const topProducts = [
+  // 🎧 Headphones
+  {
+    id: 10,
+    name: "Sony WH-1000XM4",
+    description: "Industry-leading noise cancellation headphones",
+    price: 25999,
+    oldPrice: 29999,
+    rating: 5,
+    image: "https://m.media-amazon.com/images/I/71o8Q5XJS5L._SL1500_.jpg",
+    category: "Headphones",
+  },
+  {
+    id: 12,
+    name: "JBL Tune 510BT",
+    description: "Wireless Bluetooth headphones with deep bass",
+    price: 3299,
+    oldPrice: 4999,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/61kFL7ywsZS._SL1500_.jpg",
+    category: "Headphones",
+  },
+
+  // 🎵 Earbuds
+  {
+    id: 13,
+    name: "boAt Airdopes 441",
+    description: "True wireless earbuds with immersive sound",
+    price: 2499,
+    oldPrice: 3999,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/51HBom8xz7L._SL1500_.jpg",
+    category: "Earbuds",
+  },
+  {
+    id: 14,
+    name: "OnePlus Buds Z2",
+    description: "Active noise cancellation & deep bass sound",
+    price: 4999,
+    oldPrice: 5999,
+    rating: 5,
+    image: "https://m.media-amazon.com/images/I/51sv0w5Zp-L._SL1500_.jpg",
+    category: "Earbuds",
+  },
+
+  // 🔊 Earphones
+  {
+    id: 15,
+    name: "Realme Buds 2 Neo",
+    description: "Wired earphones with tangle-free design",
+    price: 599,
+    oldPrice: 999,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/61WUqJd4dfS._SL1500_.jpg",
+    category: "Earphones",
+  },
+  {
+    id: 16,
+    name: "boAt BassHeads 242",
+    description: "Sports wired earphones with mic",
+    price: 699,
+    oldPrice: 1490,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/61l9ppRIiqL._SL1500_.jpg",
+    category: "Earphones",
+  },
+
+  // 🩳 Neckbands
+  {
+    id: 17,
+    name: "JBL Live 200BT",
+    description: "In-ear wireless neckband with premium sound",
+    price: 3699,
+    oldPrice: 5299,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/61vlXhR1G+L._SL1500_.jpg",
+    category: "Neckbands",
+  },
+  {
+    id: 18,
+    name: "boAt Rockerz 255",
+    description: "Wireless neckband with deep bass",
+    price: 899,
+    oldPrice: 2990,
+    rating: 5,
+    image: "https://m.media-amazon.com/images/I/61KUY9fpx6L._SL1500_.jpg",
+    category: "Neckbands",
+  },
+  {
+    id: 19,
+    name: "Sony WI-XB400",
+    description: "Wireless Extra Bass In-ear Neckband",
+    price: 2690,
+    oldPrice: 4990,
+    rating: 4,
+    image: "https://m.media-amazon.com/images/I/61MKrAqoILL._SL1500_.jpg",
+    category: "Neckbands",
+  },
+  {
+    id: 20,
+    name: "Honey Nut",
+    description: "Wireless Extra Bass In-ear Neckband",
+    price: 2690,
+    oldPrice: 4990,
+    rating: 4,
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcqmWM2mpkZqP6QgGcX8cEjkCvAefzpOvkiA&s",
+    category: "Honey",
+  },
+];
